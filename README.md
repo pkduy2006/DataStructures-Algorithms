@@ -22,3 +22,9 @@
 | 13   | Codeforces Round 988 (Div. 3) C - Superultra's Favorite Permutation                                                        | 78F-00011.cpp   |
 | 14   | Codeforces Round 988 (Div. 3) D - Sharky Surfing                                                                           | 30M-02572.cpp   |
 | 15   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) A - King Keykhosrow's Mystery           | 51B-50194.cpp   |    
+| 16   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) B - Rakhsh's Revival                    | 50F-02051.cpp   |
+| 17   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) C - Trapped in the Witch's Labyrinth    | 50H-70261.cpp   |
+| 18   | Educational Codeforces Round 172 (Rated for Div. 2) A - Greedy Monocarp                                                    | 51B-29587.cpp   |
+| 19   | Educational Codeforces Round 172 (Rated for Div. 2) B - Game with Colored Marbles                                          | 29B-20591.cpp   |
+| 20   | Educational Codeforces Round 172 (Rated for Div. 2) C - Competitive Fishing                                                | 37H-07266.cpp   |
+| 21   | Educational Codeforces Round 172 (Rated for Div. 2) D - Recommendations                                                    | 37H-08844.cpp   |
