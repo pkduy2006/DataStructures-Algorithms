@@ -28,7 +28,9 @@
 | 19   | Educational Codeforces Round 172 (Rated for Div. 2) B - Game with Colored Marbles                                          | 29B-20591.cpp   |
 | 20   | Educational Codeforces Round 172 (Rated for Div. 2) C - Competitive Fishing                                                | 37H-07266.cpp   |
 | 21   | Educational Codeforces Round 172 (Rated for Div. 2) D - Recommendations                                                    | 37H-08844.cpp   |
-| 22   | Codeforces Round 991 (Div. 3) A - Line breaks                                                                              | 49F-00070.cpp   |
+| 22   | Codeforces Round 991 (Div. 3) A - Line Breaks                                                                              | 49F-00070.cpp   |
 | 23   | Codeforces Round 991 (Div. 3) B - Transfusion                                                                              | 29B-19585.cpp   |
-| 24   | Codeforces Round 991 (Div. 3) C - Uninteresting number                                                                     | 29H-96252.cpp   |
-| 25   | Codeforces 
+| 24   | Codeforces Round 991 (Div. 3) C - Uninteresting Number                                                                     | 29H-96252.cpp   |
+| 25   | Codeforces Round 991 (Div. 3) D - Digital String Maximization                                                              | 26F-01035.cpp   |
+| 26   | Codeforces Round 991 (Div. 3) F - Maximum Modulo Equality                                                                  | 23H-01760.cpp   |
+| 27   | Codeforces Round 991 (Div. 3) E - Three Strings                                                                            | 26R-01159.cpp   |
