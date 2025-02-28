@@ -43,7 +43,8 @@
 | 34    | Codeforces Round 760 (Div. 3) C. Paint the Array                                                                           | 15H-08038.cpp   | 
 | 35    | Codeforces Round 794 (Div. 2) B. Odd Subarrays                                                                             | 43B-05276.cpp   |
 | 36    | Codeforces Round 796 (Div. 2) A. Cirno's Perfect Bitmasks Classroom                                                        | 17F-00060.cpp   |
-| 37    | Codeforces Round 796 (Div. 2) B. Patchouli's Magical Talisman                                                              | 15H-09825.cpp   |    
+| 37    | Codeforces Round 796 (Div. 2) B. Patchouli's Magical Talisman                                                              | 15H-09825.cpp   |   
+| 38    | Codeforces Round 1007 (Div. 2) A. The Play Never Ends                                                                      | 26B-00469.cpp   | 
 
 ### 2. LeetCode
 | No   | Problem Name                                                | Difficulty | File Name   | Notes                                                    |
