@@ -5,35 +5,45 @@
 ### Here is the list of contents of this repository.
 
 ### 1. Codeforces
-| No   | Problem Name                                                                                                               | File Name       |
-|------|----------------------------------------------------------------------------------------------------------------------------|-----------------|
-| 1    | Codeforces Round 983 (Div. 2) A - Circuit                                                                                  | 29B-19588.cpp   |
-| 2    | Codeforces Round 983 (Div. 2) B - Medians                                                                                  | 76B-01062.cpp   |
-| 3    | Codeforces Round 983 (Div. 2) C - Trinity                                                                                  | 65H-04307.cpp   |
-| 4    | Codeforces Round 984 (Div. 3) A - Quintomania                                                                              | 50H-30515.py    |
-| 5    | Codeforces Round 984 (Div. 3) B - Startup                                                                                  | 27B-00012.cpp   |
-| 6    | Codeforces Round 984 (Div. 3) C - Anya and 1100                                                                            | 92H-03284.cpp   |
-| 7    | Codeforces Round 984 (Div. 3) D - I love 1543                                                                              | 29H-86679.cpp   |
-| 8    | Codeforces Round 987 (Div. 2) A - Penchick and Modern Monument                                                             | 37B-01718.cpp   |
-| 9    | Codeforces Round 987 (Div. 2) B - Penchick and Satay Sticks                                                                | 50H-69642.cpp   |
-| 10   | Codeforces Round 987 (Div. 2) C - Penchick and BBQ Buns                                                                    | 26F-00871.cpp   |
-| 11   | Codeforces Round 988 (Div. 3) A - Twice                                                                                    | 15H-10462.cpp   |
-| 12   | Codeforces Round 988 (Div. 3) B - Intercepted Inputs                                                                       | 78F-00085.cpp   |
-| 13   | Codeforces Round 988 (Div. 3) C - Superultra's Favorite Permutation                                                        | 78F-00011.cpp   |
-| 14   | Codeforces Round 988 (Div. 3) D - Sharky Surfing                                                                           | 30M-02572.cpp   |
-| 15   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) A - King Keykhosrow's Mystery           | 51B-50194.cpp   |    
-| 16   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) B - Rakhsh's Revival                    | 50F-02051.cpp   |
-| 17   | Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2) C - Trapped in the Witch's Labyrinth    | 50H-70261.cpp   |
-| 18   | Educational Codeforces Round 172 (Rated for Div. 2) A - Greedy Monocarp                                                    | 51B-29587.cpp   |
-| 19   | Educational Codeforces Round 172 (Rated for Div. 2) B - Game with Colored Marbles                                          | 29B-20591.cpp   |
-| 20   | Educational Codeforces Round 172 (Rated for Div. 2) C - Competitive Fishing                                                | 37H-07266.cpp   |
-| 21   | Educational Codeforces Round 172 (Rated for Div. 2) D - Recommendations                                                    | 37H-08844.cpp   |
-| 22   | Codeforces Round 991 (Div. 3) A - Line Breaks                                                                              | 49F-00070.cpp   |
-| 23   | Codeforces Round 991 (Div. 3) B - Transfusion                                                                              | 29B-19585.cpp   |
-| 24   | Codeforces Round 991 (Div. 3) C - Uninteresting Number                                                                     | 29H-96252.cpp   |
-| 25   | Codeforces Round 991 (Div. 3) D - Digital String Maximization                                                              | 26F-01035.cpp   |
-| 26   | Codeforces Round 991 (Div. 3) F - Maximum Modulo Equality                                                                  | 23H-01760.cpp   |
-| 27   | Codeforces Round 991 (Div. 3) E - Three Strings                                                                            | 26R-01159.cpp   |
+| No    | Problem Name                                                                                                               | File Name       |
+|-------|----------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 1     | Educational Codeforces Round 29 B. Kayaking                                                                                | 29E-10742.cpp   |
+| 2     | Codeforces Beta Round 4 (Div. 2 Only) C. Registration System                                                               | 12B-01115.cpp   |
+| 3     | Codeforces Round 577 (Div. 2) C. Maximum Median                                                                            | 38H-02847.cpp   |
+| 4     | Educational Codeforces Round 32 C. K-Dominant Character                                                                    | 51F-73018.cpp   |
+| 5     | Codeforces Round 515 (Div. 3) D. Boxes Packing                                                                             | 50F-05328.cpp   |
+| 6     | Codeforces Global Round 4 C. Tiles                                                                                         | 50H-40964.cpp   |
+| 7     | Codeforces Round 760 (Div. 3) A. Polycarp and Sums of Subsequences                                                         | 63F-00369.cpp   |
+| 8     | Educational Codeforces Round 120 (Rated for Div. 2) A. Construct a Rectangle                                               | 29D-33246.cpp   |
+| 9     | Codeforces Round 770 (Div. 2) A. Reverse and Concatenate                                                                   | 69F-00080.cpp   |
+| 10    | Codeforces Round 770 (Div. 2) C. OKEA                                                                                      | 69B-00203.cpp   |
+| 11    | Codeforces Round 770 (Div. 2) B. Fortune Telling                                                                           | 51B-29723.cpp   |
+| 12    | Educational Codeforces Round 123 (Rated for Div. 2) A. Doors and Keys                                                      | 81B-01447.cpp   |
+| 13    | Educational Codeforces Round 123 (Rated for Div. 2) B. Anti-Fibonacci Permutation                                          | 36H-05267.cpp   |
+| 14    | Codeforces Round 777 (Div. 2) A. Madoka and Math Dad                                                                       | 50F-05338.cpp   |
+| 15    | Codeforces Round 779 (Div. 2) A. Marin and Photoshoot                                                                      | 49H-03644.cpp   |
+| 16    | Codeforces Round 780 (Div. 3) A. Vasya and Coins                                                                           | 77F-00096.cpp   |
+| 17    | Codeforces Round 780 (Div. 3) B. Vlad and Candies                                                                          | 77F-00533.cpp   |
+| 18    | Codeforces Alpha Round 20 (Codeforces format) C. Dijkstra?                                                                 | 11F-00015.cpp   |
+| 19    | Codeforces Round 784 (Div. 4) A. Division?                                                                                 | 36B-03696.cpp   |
+| 20    | Codeforces Round 784 (Div. 4) B. Triple                                                                                    | 36H-08458.cpp   |
+| 21    | Codeforces Round 784 (Div. 4) C. Odd/Even Increments                                                                       | 50H-47811.cpp   | 
+| 22    | Codeforces Round 790 (Div. 4) A. Lucky?                                                                                    | 50F-04075.cpp   |
+| 23    | Codeforces Round 790 (Div. 4) B. Equal Candies                                                                             | 50H-32166.cpp   |
+| 24    | Codeforces Round 790 (Div. 4) C. Most Similar Words                                                                        | 69B-00276.cpp   |
+| 25    | Codeforces Round 790 (Div. 4) D. X-Sum                                                                                     | 21B-00820.cpp   |
+| 26    | Codeforces Round 790 (Div. 4) E. Eating Queries                                                                            | 37H-06851.cpp   |
+| 27    | Codeforces Round 790 (Div. 4) F. Longest Strike                                                                            | 68F-00168.cpp   |
+| 28    | Codeforces Round 787 (Div. 3) A. Food for Animals                                                                          | 70B-01896.cpp   |
+| 29    | Codeforces Round 786 (Div. 3) B. Dictionary                                                                                | 29B-19996.cpp   |
+| 30    | Codeforces Round 786 (Div. 3) A. Number Transformation                                                                     | 50H-36491.cpp   |
+| 31    | Codeforces Round 223 (Div. 1) C. Sereja and Brackets                                                                       | 50H-72495.cpp   | 
+| 32    | Codeforces Round 794 (Div. 2) A. Everything Everywhere All But One                                                         | 29B-12566.cpp   |
+| 33    | Codeforces Round 794 (Div. 1) A. Circular Local MiniMax                                                                    | 29H-90099.cpp   |
+| 34    | Codeforces Round 760 (Div. 3) C. Paint the Array                                                                           | 15H-08038.cpp   | 
+| 35    | Codeforces Round 794 (Div. 2) B. Odd Subarrays                                                                             | 43B-05276.cpp   |
+| 36    | Codeforces Round 796 (Div. 2) A. Cirno's Perfect Bitmasks Classroom                                                        | 17F-00060.cpp   |
+| 37    | Codeforces Round 796 (Div. 2) B. Patchouli's Magical Talisman                                                              | 15H-09825.cpp   |    
 
 ### 2. LeetCode
 | No   | Problem Name                                                | Difficulty | File Name   | Notes                                                    |
@@ -71,6 +81,7 @@
 | 31   | 744. Find Smallest Letter Greater than Target               | Easy       | CNS-366.py  | Beats 100%, using binary search                          |
 | 32   | 1011. Capacity to Ship Packages Within D Days               | Medium     | CNS-330.py  | N * log(N) solution, using binary search, beats 53.46%   |
 | 33   | 209. Minimum Size Subarray Sum                              | Medium     | CPG-172.py  | N * log(N) solution, using binary search, beats 7.47%    |
+| 34   | 268. Missing Number                                         | Easy       | NMU-408.py  | N solution, beats 64.91%                                 |
 
 ### 3. cses 
 | No   | Problem Name                                       | Topic                                 | File Name |
